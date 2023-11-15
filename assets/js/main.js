@@ -12,7 +12,7 @@ const getOptionChart1 = () => {
         xAxis: [
             {
                 type: "category",
-                data: ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+                /*data: ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]*/
             }
         ],
         yAxis: [
@@ -107,7 +107,7 @@ const getOptionChart3 = () => {
         },
         xAxis: {
             type: "category",
-            data: ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+            /*data: ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]*/
         },
         yAxis: {
             type: "value"
